@@ -1,6 +1,6 @@
 # RespondaAqui - Projeto Fullstack
 
-![AskMe Logo](https://via.placeholder.com/600x200.png?text=AskMe)
+![AskMe Logo](/home/vinicius-alves-rodrigues-pinto/Secretária/Cursos/Node/Projetos/respondaAqui/public/img/logo.png)
 
 Um projeto Fullstack simples e funcional para prática dos fundamentos de **Node.js**, **banco de dados não-relacionais** e a construção de rotas HTTP.
 
